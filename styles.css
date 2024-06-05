@@ -1,5 +1,5 @@
 
-.container {
+#wrapper {
     width: 100%;
     padding: 20px;
 }
@@ -18,14 +18,14 @@
     justify-content: space-between;
 }
 
-.dsa {
+#dsa {
     width: 50%;
     background-color: lightblue;
     text-align: center;
     line-height: 75px; /* Vertically centers the content */
 }
 
-.mern {
+#mern {
     width: 30%;
     height: 75px;
     background-color: lightgreen;
@@ -37,7 +37,7 @@
     justify-content: center;
 }
 
-.acciojob {
+#acciojob {
     width: 75%;
     background-color: lightcoral;
     text-align: center;
@@ -48,7 +48,7 @@
     justify-content: space-between;
 }
 
-.business-analytics {
+#business-analytics {
     width: 40%;
     background-color: lightgoldenrodyellow;
     align-self: flex-end;
@@ -56,7 +56,7 @@
     padding-bottom: 10px;
 }
 
-.spring {
+#spring {
     flex-grow: 1;
     height: 75px;
     background-color: lightseagreen;
