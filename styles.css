@@ -2,6 +2,7 @@
 #wrapper {
     width: 100%;
     padding: 20px;
+	color:white;
 }
 
 .row {
@@ -20,17 +21,18 @@
 
 #dsa {
     width: 50%;
-    background-color: lightblue;
+    background-color: #890123;
     text-align: center;
-    line-height: 75px; /* Vertically centers the content */
+    line-height: 75px;
+	color:white;
 }
 
 #mern {
     width: 30%;
     height: 75px;
-    background-color: lightgreen;
+    background-color: #f37f1b;
     text-align: center;
-    line-height: 75px; /* Vertically centers the content */
+    line-height: 75px;
 }
 
 .second-row {
@@ -39,7 +41,7 @@
 
 #acciojob {
     width: 75%;
-    background-color: lightcoral;
+    background-color: #626ee3;
     text-align: center;
     line-height: 75px;
 }
@@ -50,16 +52,17 @@
 
 #business-analytics {
     width: 40%;
-    background-color: lightgoldenrodyellow;
+    background-color: #12967e;
     align-self: flex-end;
     text-align: center;
     padding-bottom: 10px;
+	 line-height: 75px;
 }
 
 #spring {
     flex-grow: 1;
     height: 75px;
-    background-color: lightseagreen;
+    background-color: #f21a3f;
     margin-left: 10px;
     text-align: center;
     line-height: 75px;
